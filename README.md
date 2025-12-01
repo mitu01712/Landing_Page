@@ -67,7 +67,7 @@ This project is licensed under the MIT License.
 Developed by [Your Name]
 
 ### 1. Landing / Hero Section
-![Landing Page](screenshots/landing1.jpg)
+![Landing Page](screenshots/landing1.png)
 
 ### 2. Our Services
 ![Services](screenshots/service1.png)
@@ -83,7 +83,7 @@ Developed by [Your Name]
 ![Testimonials](screenshots/customer.png)
 
 ### 6. Latest Articles
-![Articles](screenshots/article.jpg)
+![Articles](screenshots/article.png)
 
 ### 7. Footer
 ![Footer](screenshots/footer.png)
