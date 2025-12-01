@@ -67,23 +67,23 @@ This project is licensed under the MIT License.
 Developed by [Your Name]
 
 ### 1. Landing / Hero Section
-![Landing Page](screenshots/landing1.png)
+![Landing Page](./screenshots/landing1.png)
 
 ### 2. Our Services
-![Services](screenshots/service1.png)
-![Services Details](screenshots/service2.png)
+![Services](./screenshots/service1.png)
+![Services Details](./screenshots/service2.png)
 
 ### 3. Leading Healthcare Providers
-![Healthcare Providers](screenshots/healthcare.png)
+![Healthcare Providers](./screenshots/healthcare.png)
 
 ### 4. Download Our Apps
-![Download Apps](screenshots/app.png)
+![Download Apps](./screenshots/app.png)
 
 ### 5. Customer Testimonials
-![Testimonials](screenshots/customer.png)
+![Testimonials](./screenshots/customer.png)
 
 ### 6. Latest Articles
-![Articles](screenshots/article.png)
+![Articles](./screenshots/article.png)
 
 ### 7. Footer
-![Footer](screenshots/footer.png)
+![Footer](./screenshots/footer.png)
