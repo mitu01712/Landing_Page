@@ -10,10 +10,6 @@ Responsive Design: Fully responsive layout for desktop, tablet, and mobile devic
 
 Clean UI: Modern and clean user interface focusing on healthcare accessibility.
 
-Navigation: Easy-to-use navigation bar.
-
-Hero Section: Engaging introductory section with a call to action.
-
 Services Section: Highlights key services like "Search doctor," "Online pharmacy," "Consultation," etc.
 
 Healthcare Providers: Section detailing the quality of healthcare providers.
@@ -24,7 +20,36 @@ Testimonials: Customer reviews and feedback carousel.
 
 Latest Articles: Blog section featuring health-related articles.
 
-Footer: Comprehensive footer with links and copyright information.
+ Project Screenshots
+
+1. Landing / Hero Section
+
+<img src="./screenshots/landing1.png" alt="Landing Page" width="100%">
+
+2. Our Services
+
+<img src="./screenshots/service1.png" alt="Services" width="100%">
+<img src="./screenshots/service2.png" alt="Services Details" width="100%">
+
+3. Leading Healthcare Providers
+
+<img src="./screenshots/healthcare.png" alt="Healthcare Providers" width="100%">
+
+4. Download Our Apps
+
+<img src="./screenshots/app.png" alt="Download Apps" width="100%">
+
+5. Customer Testimonials
+
+<img src="./screenshots/customer.png" alt="Testimonials" width="100%">
+
+6. Latest Articles
+
+<img src="./screenshots/article.png" alt="Articles" width="100%">
+
+7. Footer
+
+<img src="./screenshots/footer.png" alt="Footer" width="100%">
 
  Tech Stack
 
@@ -32,13 +57,7 @@ HTML5 - Structure and content.
 
 CSS3 - Styling and layout (Flexbox/Grid).
 
-JavaScript (Optional) - For interactive elements like carousels or mobile menu toggles.
-
- Screenshots
-
-Desktop View
-
-Mobile View
+JavaScript - Interactive elements.
 
  Installation & Usage
 
@@ -56,34 +75,4 @@ cd trafalgar-landing-page
 
 Open index.html in your browser.
 
- Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
- License
-
-This project is licensed under the MIT License.
-
 Developed by [Your Name]
-
-### 1. Landing / Hero Section
-![Landing Page](./screenshots/landing1.png)
-
-### 2. Our Services
-![Services](./screenshots/service1.png)
-![Services Details](./screenshots/service2.png)
-
-### 3. Leading Healthcare Providers
-![Healthcare Providers](./screenshots/healthcare.png)
-
-### 4. Download Our Apps
-![Download Apps](./screenshots/app.png)
-
-### 5. Customer Testimonials
-![Testimonials](./screenshots/customer.png)
-
-### 6. Latest Articles
-![Articles](./screenshots/article.png)
-
-### 7. Footer
-![Footer](./screenshots/footer.png)
