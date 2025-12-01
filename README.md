@@ -2,9 +2,9 @@ Trafalgar - Virtual Healthcare Landing Page
 
 A responsive landing page for "Trafalgar," a virtual healthcare provider that offers progressive and affordable healthcare accessible on mobile and online.
 
-🔗 Live Demo: [Insert Live Link Here]
+ Live Demo: [Insert Live Link Here]
 
-🌟 Features
+ Features
 
 Responsive Design: Fully responsive layout for desktop, tablet, and mobile devices.
 
@@ -26,7 +26,7 @@ Latest Articles: Blog section featuring health-related articles.
 
 Footer: Comprehensive footer with links and copyright information.
 
-🛠️ Tech Stack
+ Tech Stack
 
 HTML5 - Structure and content.
 
@@ -34,13 +34,13 @@ CSS3 - Styling and layout (Flexbox/Grid).
 
 JavaScript (Optional) - For interactive elements like carousels or mobile menu toggles.
 
-📸 Screenshots
+ Screenshots
 
 Desktop View
 
 Mobile View
 
-🚀 Installation & Usage
+ Installation & Usage
 
 To run this project locally:
 
@@ -56,11 +56,11 @@ cd trafalgar-landing-page
 
 Open index.html in your browser.
 
-🤝 Contributing
+ Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-📄 License
+ License
 
 This project is licensed under the MIT License.
 
